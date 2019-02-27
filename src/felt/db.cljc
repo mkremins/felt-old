@@ -128,7 +128,7 @@
 ])
 
 (def all-values
-  ;; from https://docs.google.com/document/d/1jft74HzoOutj224O1Pfj-rSm9btxNjPqWo2o5WUtNRU/edit
+  ;; from game design doc
   [:science :survival :communalism :funding :comfort :order :faith :progress])
 
 (def primary-tropes
